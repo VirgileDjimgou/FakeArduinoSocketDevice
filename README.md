@@ -2,9 +2,6 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Product	: FakeArduinoSocketDevice v 5.0
-Licence	: GNU Lesser General Public License
-Author	: Djimgou Patrick virgile
-Website	: http://djimgoupat.esy.es/
 
 Tools to simulate Arduino or Device (Client) Connection  with Remote Socket Server  throught  TCP  or  UDP Protocoll.
 It can create both TCP and UDP client or server. It can be used to test any server or client (Arduino) that uses TCP or UDP protocol to communicate. 
@@ -35,7 +32,7 @@ License, Copyright
 ~~~~~~~~~~~~~~~~~~~~
 Copyright (C) 2012-2017 Patrick Djimgou
 Website	   : http://djimgoupat.esy.es/
-Author     : Patrick Djimgou
+Author     : Patrick Virgile Djimgou
 Email	   : djimgoupat@yahoo.fr
 
 This library is free software; you can redistribute it and/or
