@@ -1,19 +1,18 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Product	: SocketTest v 3.0
+Product	: FakeArduinoSocketDevice v 5.0
 Licence	: GNU Lesser General Public License
 Author	: Djimgou Patrick virgile
-Url	: http://sockettest.sourceforge.net/
+Website	: http://djimgoupat.esy.es/
 
-A java tool for socket testing. It can create both TCP and UDP client or 
-server. It can be used to test any server or client that uses TCP or UDP 
-protocol to communicate. 
+A java tool to generate Fake Arduino Socket Device and socket testing. It can create both TCP and UDP client or 
+server. It can be used to test any server or client (Arduino) that uses TCP or UDP protocol to communicate. 
 
 System Requirement: JDK 1.3 or above
 
 
 Other Libraries/Tools Used
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-SocketTest uses the following third party libraries and would like
+FakeArduinoSocketDevice uses the following third party libraries and would like
 to thank all of them for making life easier for developers.
 
 Metouia Look And Feel :
@@ -23,11 +22,10 @@ Metouia Look And Feel :
 
 License, Copyright
 ~~~~~~~~~~~~~~~~~~~~
-SocketTest - Test My Socket
-Copyright (C) 2003-2008 Akshathkumar Shetty
-Website	   : http://sockettest.sourceforge.net/
-Author     : Akshathkumar Shetty
-Email	   : akshath@quickserver.org
+Copyright (C) 2012-2017 Patrick Djimgou
+Website	   : http://djimgoupat.esy.es/
+Author     : Patrick Djimgou
+Email	   : djimgoupat@yahoo.fr
 
 This library is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public
