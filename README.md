@@ -1,6 +1,5 @@
 # FakeArduinoSocketDevice
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Product	: FakeArduinoSocketDevice v 5.0
 
 Tools to simulate Arduino or Device (Client) Connection  with Remote Socket Server  throught  TCP  or  UDP Protocoll.
