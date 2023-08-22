@@ -18,7 +18,7 @@ System Requirement: JDK 1.3 or above
 
 
 Other Libraries/Tools Used
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 FakeArduinoSocketDevice uses the following third party libraries and would like
 to thank all of them for making life easier for developers.
 
