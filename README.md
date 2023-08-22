@@ -1,6 +1,6 @@
 # FakeArduinoSocketDevice
 
-Product	: FakeArduinoSocketDevice v 5.0
+Product	: FakeArduinoSocketDevice v 0.7
 
 Tools to simulate Arduino or Device (Client) Connection  with Remote Socket Server  throught  TCP  or  UDP Protocoll.
 It can create both TCP and UDP client or server. It can be used to test any server or client (Arduino) that uses TCP or UDP protocol to communicate. 
